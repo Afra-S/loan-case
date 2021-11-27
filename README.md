@@ -20,3 +20,4 @@ scikit-learn:     - pip install scikit-learn
 matplotlib:       - pip install matplotlib 
 seaborn:          - pip install seaborn
 jupyter notebook: - pip install jupyter
+## Download the data from: https://github.com/afrasabei/loan-case/tree/main/Data
